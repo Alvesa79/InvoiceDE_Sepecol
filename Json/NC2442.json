@@ -1,0 +1,92 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2442",
+    "issueDate": "20250128",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "CUARENTA Y  DOS MILLONES CUARENTA MIL CIENTO VEINTI DOS con 32/100 COP",
+    "note2": "- ANULA SP 11978 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12010",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2442"
+      }
+    },
+    "amounts": {
+      "totalAmount": "41256253.50",
+      "discountAmount": "0.00",
+      "taxAmount": "783868.82",
+      "payAmount": "42040122.32"
+    },
+    "customerX": {
+      "additionalAccountID": "2",
+      "name": "AMERISUR EXPLORACION COLOMBIA LIMITADA",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 94 11 30 PISO 8",
+      "documentNumber": "900089005",
+      "documentType": "13",
+      "telephone": "ND",
+      "email": "co.facturacionelectronica@geopark.com"
+    },
+    "period": {
+      "startDate": "20250101",
+      "startTime": "000000",
+      "endDate": "20250130",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "12732375.15",
+        "total": "12732375.15",
+        "description": "- ANULA SP 11978 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12010",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1414708.35",
+        "total": "1414708.35",
+        "description": "- ANULA SP 11978 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12010 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "268794.59",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11978 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12010",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11978 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12010 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

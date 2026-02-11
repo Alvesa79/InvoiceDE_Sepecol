@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1138,
+            "text": "el parametro: 'invoice/period/endDate' no contiene una fecha valida"
+        }
+    }
+}

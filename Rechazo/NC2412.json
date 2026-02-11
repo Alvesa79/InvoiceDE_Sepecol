@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1130,
+            "text": "creditNote/items(2)/pricingReference debe existir si total=0.00"
+        }
+    }
+}

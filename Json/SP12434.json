@@ -1,0 +1,71 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12434",
+    "issueDate": "20250428",
+    "issueTime": "100521",
+    "dueDate": "20250528",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "CUARENTA Y  CUATRO MILLONES CUARENTA Y  SEIS MIL QUINIENTOS NOVENTA Y  SIETE con 88/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS DE GEOPARK BLOQUE LLANOS 34 (TALADRO) EN EL MUNICIPIO DE VILLANUEVA CASANARE DURANTE EL PERIODO DEL 01 AL 31 ENERO DE 2025 HES 1000339602",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "GEOPARK COLOMBIA S.A.S",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 94 11 30 PISO 8",
+      "documentNumber": "900493698",
+      "documentType": "31",
+      "telephone": "3809400",
+      "email": "co.facturacionelectronica@geopark.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12434"
+      }
+    },
+    "amounts": {
+      "totalAmount": "36960300.30",
+      "discountAmount": "0.00",
+      "taxAmount": "7086297.58",
+      "payAmount": "44046597.88",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "33264270.27",
+        "total": "33264270.27",
+        "description": "SERVICIO DE VIGILANCIA FIJA 24 HORAS SIN ARMA, EN MUNICIPIO DE VILLANUEVA CASANARE VEREDA PUERTO MIRYAM BAJO JACANA SUR POZO JACANA 97 (TALADRO).",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85440",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "6384051.87",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "3696030.03",
+        "total": "3696030.03",
+        "description": "SERVICIO DE VIGILANCIA FIJA 24 HORAS SIN ARMA, EN MUNICIPIO DE VILLANUEVA CASANARE VEREDA PUERTO MIRYAM BAJO JACANA SUR POZO JACANA 97 (TALADRO). AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85440",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "702245.71",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

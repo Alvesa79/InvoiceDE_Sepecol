@@ -1,0 +1,71 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11949",
+    "issueDate": "20250113",
+    "issueTime": "100521",
+    "dueDate": "20250212",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "OCHENTA Y  CINCO MILLONES TRESCIENTOS CATORCE MIL SEISCIENTOS DIECISIETE con 36/100 COP",
+    "note2": "PRESTACION DE SERVICIO DE VIGILANCIA FIJA RESIDENCIAL PARA LA DEPENDENCIA DE TORRES DEL SALITRE DURANTE EL MES DE ENERO DE 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "CONJUNTO RESIDENCIAL TORRES DE SALITRE ALTO PROPIEDAD HORIZONTAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CARRERA 64A NO 22-41",
+      "documentNumber": "900273325",
+      "documentType": "31",
+      "telephone": "3112916069",
+      "email": "torresdesalitrealto@gmail.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11949"
+      }
+    },
+    "amounts": {
+      "totalAmount": "71589045.00",
+      "discountAmount": "0.00",
+      "taxAmount": "13725572.36",
+      "payAmount": "85314617.36",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "64430140.50",
+        "total": "64430140.50",
+        "description": "SERVICIOS BOGOTA CINCO SERVICIOS 24 HORAS PERMANENTE CON ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "12365380.50",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "7158904.50",
+        "total": "7158904.50",
+        "description": "SERVICIOS BOGOTA CINCO SERVICIOS 24 HORAS PERMANENTE CON ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "1360191.85",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

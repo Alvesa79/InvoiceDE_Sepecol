@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1134,
+            "text": "el parametro: 'invoice/items(2)/description' no tiene el tama\u00f1o m\u00ednimo requerido (5)"
+        }
+    }
+}

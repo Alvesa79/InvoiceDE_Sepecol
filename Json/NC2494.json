@@ -1,0 +1,93 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2494",
+    "issueDate": "20250429",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "ONCE MILLONES NOVECIENTOS CINCUENTA Y  NUEVE MIL SETECIENTOS DOCE con 1/100 COP",
+    "note2": "",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2494"
+      }
+    },
+    "amounts": {
+      "totalAmount": "11736714.44",
+      "discountAmount": "0.00",
+      "taxAmount": "222997.57",
+      "payAmount": "11959712.01",
+      "flexAmount": "true"
+    },
+    "customerX": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "ND",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "period": {
+      "startDate": "20250401",
+      "startTime": "000000",
+      "endDate": "20250430",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "5893848.90",
+        "total": "5893848.90",
+        "description": "",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "654872.10",
+        "total": "654872.10",
+        "description": " AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "124425.70",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "4669194.10",
+        "total": "4669194.10",
+        "description": "",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "518799.34",
+        "total": "518799.34",
+        "description": " AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "98571.88",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12441",
+    "issueDate": "20250506",
+    "issueTime": "100521",
+    "dueDate": "20250605",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "SESENTA Y  SEIS MILLONES TRESCIENTOS DIECISIETE MIL CUATROCIENTOS OCHENTA Y  OCHO con 5/100 COP",
+    "note2": "SERVICIOS BOGOTA CINCO SERVICIOS 24 HORAS PERMANENTE CON ARMA SALITRE DURANTE EL MES DE MAYO DE 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "CONJUNTO RESIDENCIAL TORRES DE SALITRE ALTO PROPIEDAD HORIZONTAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CARRERA 64A NO 22-41",
+      "documentNumber": "900273325",
+      "documentType": "31",
+      "telephone": "3112916069",
+      "email": "torresdesalitrealto@gmail.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12441"
+      }
+    },
+    "amounts": {
+      "totalAmount": "65080950.00",
+      "discountAmount": "0.00",
+      "taxAmount": "1236538.05",
+      "payAmount": "66317488.05",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "65080950.00",
+        "total": "65080950.00",
+        "description": "SERVICIOS BOGOTA CINCO SERVICIOS 24 HORAS PERMANENTE CON ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      }
+    ]
+  }
+}

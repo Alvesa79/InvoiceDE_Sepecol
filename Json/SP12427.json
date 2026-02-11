@@ -1,0 +1,84 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12427",
+    "issueDate": "20250423",
+    "issueTime": "100521",
+    "dueDate": "20250523",
+    "paymentType": "1",
+    "paymentCode": "45",
+    "note1": "SETECIENTOS MIL OCHOCIENTOS  CUATRO con 0/100 COP",
+    "note2": "ACTA N\u00b0120SM REEMBOLSABLE LEGALIZACION DE GASTOS OPERATIVOS Y APOYO LOGISTICO MARZO 2024 PED 4300167185 HE 1000234983 ID C202443061",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12427"
+      }
+    },
+    "amounts": {
+      "totalAmount": "700804.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.00",
+      "payAmount": "700804.00",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "163739.00",
+        "total": "163739.00",
+        "description": "REEMBOLSABLE DEL MES DE MARZO DE 2024, CASA DEL DIRECTIVO PAREX DAMIAN FERNANDEZ.. AFEC009085001GA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "163739.00",
+        "total": "163739.00",
+        "description": "REEMBOLSABLE DEL MES DE MARZO DE 2024, CASA DEL DIRECTIVO PAREX MARCOS PENA. AFE C009085001GA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "163739.00",
+        "total": "163739.00",
+        "description": "REEMBOLSABLE DEL MES DE MARZO DE 2024, CASA DEL DIRECTIVO PAREX DANIEL FERREIRO. AFE C009085001GA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "163739.00",
+        "total": "163739.00",
+        "description": "REEMBOLSABLE DEL MES DE MARZO DE 2024, CASA DEL DIRECTIVO PAREX ANDRES SOLDI. AFE C009085001GA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "45848.00",
+        "total": "45848.00",
+        "description": "REEMBOLSABLE DEL MES DE MARZO DE 2024, CASA DEL DIRECTIVO PAREX ANDRES SOLDI. AFE C009085001GA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      }
+    ]
+  }
+}

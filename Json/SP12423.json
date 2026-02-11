@@ -1,0 +1,57 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12423",
+    "issueDate": "20250423",
+    "issueTime": "100521",
+    "dueDate": "20250523",
+    "paymentType": "1",
+    "paymentCode": "45",
+    "note1": "ONCE MILLONES SETECIENTOS TREINTA Y  SEIS MIL SETECIENTOS CATORCE con 0/100 COP",
+    "note2": "ACTA N\u00b0 050 REEMBOLSABLE MEDIO TECNOLOGICOS Y SISTEMA DE ALARMA OFICINA PRINCIPAL PAREX CORRESPONDIENTE AL MES DE NOV 2022 N\u00b0PED 4300121907 HE 1000172543 IDC202242600",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12423"
+      }
+    },
+    "amounts": {
+      "totalAmount": "11736714.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.00",
+      "payAmount": "11736714.00",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "10968892.00",
+        "total": "10968892.00",
+        "description": "REEMBOLSABLE  DE ELEMENTOS ELECTRONICOS PARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CASA DEL EJECUTIVO DE PAREX DAMIAN FERNANDEZ, EN EL MES DE NOVIEMBRE 2022.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "767822.00",
+        "total": "767822.00",
+        "description": "REEMBOLSABLE  DE ELEMENTOS ELECTRONICOS PARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CASA DEL EJECUTIVO DE PAREX DAMIAN FERNANDEZ, EN EL MES DE NOVIEMBRE 2022.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      }
+    ]
+  }
+}

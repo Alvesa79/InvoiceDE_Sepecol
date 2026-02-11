@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1160,
+            "text": "invoice/amounts/totalAmount no es el esperado Espero:[45406486.16] - Recibo:[49947134.78]"
+        }
+    }
+}

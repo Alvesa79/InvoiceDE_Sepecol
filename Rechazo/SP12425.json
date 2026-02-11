@@ -1,0 +1,19 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1147,
+            "text": "Documento enviado previamente y/o a\u00fan en proceso"
+        },
+        "documentoPrevio": {
+            "type": "Desconocido",
+            "mode": "Control",
+            "tascode": "fc-e30dae6648ca21207c6ab0c8f566076b-v300",
+            "intID": "SP12425",
+            "document": "SP12425",
+            "CUFE": "b497d025c6eb941609c78883b5cafbec97547653efc543d59edc0e64e6a0290fe47a2f7c3ec582a2628277f0e6d14f1a",
+            "process": "2",
+            "retries": "0",
+            "customer": "0"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11896",
+    "issueDate": "20241217",
+    "issueTime": "100521",
+    "dueDate": "20250116",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "CUATROCIENTOS  NUEVE MIL CUATROCIENTOS SETENTA Y  CINCO con 98/100 COP",
+    "note2": "RECOLECCION DE DOCUMENTOS PARA LA DEPENDENCIA DE COMESTIBLES RICOS DURANTE EL PERIODO COMPRENDIDO ENTRE EL 01 AL 31 DE DICIEMBRE DE 2024",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "COMESTIBLES RICOS SOCIEDAD ANONIMA LEGAL S.A",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 17 D 116 15 BRR FONTIV\u00bfBON BOHIOS",
+      "documentNumber": "860020308",
+      "documentType": "31",
+      "telephone": "4134155",
+      "email": "facturacionelectronica@superricas.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11896"
+      }
+    },
+    "amounts": {
+      "totalAmount": "401841.00",
+      "discountAmount": "0.00",
+      "taxAmount": "7634.98",
+      "payAmount": "409475.98",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "361656.90",
+        "total": "361656.90",
+        "description": "6 HORAS DE APOYO AL MOTORIZADO EDS PARA LA RECOLECCION DE SOBRES EL DIA 31 DE DICIEMBRE",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "40184.10",
+        "total": "40184.10",
+        "description": "6 HORAS DE APOYO AL MOTORIZADO EDS PARA LA RECOLECCION DE SOBRES EL DIA 31 DE DICIEMBRE AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "7634.98",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

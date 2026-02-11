@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1146,
+            "text": "Fecha fuera de rango en creditNote/issueDate (-8 dias) Min: 20241113"
+        }
+    }
+}

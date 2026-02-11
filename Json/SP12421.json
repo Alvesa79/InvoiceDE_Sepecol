@@ -1,0 +1,57 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12421",
+    "issueDate": "20250423",
+    "issueTime": "100521",
+    "dueDate": "20250523",
+    "paymentType": "1",
+    "paymentCode": "45",
+    "note1": "CINCO MILLONES SEISCIENTOS SETENTA Y  SEIS MIL OCHOCIENTOS NOVENTA Y  TRES con 0/100 COP",
+    "note2": "ACTA N\u00b0001-REEMBOLSABLE PARA LAS DEPENDENCIAS DE PAREX EN YOPAL CASANARE DURANTE EL PERIODO DEL 01 AL 31 DE ENERO DE 2023 PED 4300129983 HE1000190235 ID C202375229",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12421"
+      }
+    },
+    "amounts": {
+      "totalAmount": "5676893.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.00",
+      "payAmount": "5676893.00",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "5109204.00",
+        "total": "5109204.00",
+        "description": "REEMBOLSABLE : BODEGA  (YOPAL/CASANARE)",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0006"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "567689.00",
+        "total": "567689.00",
+        "description": "REEMBOLSABLE : BODEGA  (YOPAL/CASANARE)",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0006"
+      }
+    ]
+  }
+}

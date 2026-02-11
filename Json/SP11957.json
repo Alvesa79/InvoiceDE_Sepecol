@@ -1,0 +1,71 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11957",
+    "issueDate": "20250113",
+    "issueTime": "100521",
+    "dueDate": "20250212",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "DIECISEIS MILLONES TRES MIL CUATROCIENTOS TREINTA Y  NUEVE con 12/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS EDIFICIO MANTOVA PH PERIODO DE ENERO 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "EDIFICIO DE VIVIENDA MULTIFAMILIAR MANTOVA - PROPIEDAD HORIZONTAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 105 N 48 - 18",
+      "documentNumber": "901087819",
+      "documentType": "31",
+      "telephone": "3173778139",
+      "email": "admonedificiomantova@gmail.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11957"
+      }
+    },
+    "amounts": {
+      "totalAmount": "13392829.44",
+      "discountAmount": "0.00",
+      "taxAmount": "2610609.68",
+      "payAmount": "16003439.12",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "12053546.50",
+        "total": "12053546.50",
+        "description": "UN SERVICIO 23 HORAS PERMANENTES SIN ARMA CON APOYO DE MEDIOS TECNOLOGICOS",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "2356145.92",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1339282.94",
+        "total": "1339282.94",
+        "description": "UN SERVICIO 23 HORAS PERMANENTES SIN ARMA CON APOYO DE MEDIOS TECNOLOGICOS AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "254463.76",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

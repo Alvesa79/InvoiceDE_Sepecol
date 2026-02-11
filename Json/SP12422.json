@@ -1,0 +1,57 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12422",
+    "issueDate": "20250423",
+    "issueTime": "100521",
+    "dueDate": "20250523",
+    "paymentType": "1",
+    "paymentCode": "45",
+    "note1": "CINCO MILLONES DOSCIENTOS  OCHO MIL CIENTO CUARENTA Y  OCHO con 0/100 COP",
+    "note2": "ACTA N\u00b0449-REEMBOLSABLES LEGALIZACION GASTOS OPERATIVOS Y APOYO LOGISTICO CASANARE MAYO 2024 BLOQUE CABRESTEROS PONYO PED 4300175785 HE 1000245100 ID C202454805",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12422"
+      }
+    },
+    "amounts": {
+      "totalAmount": "5208148.00",
+      "discountAmount": "0.00",
+      "taxAmount": "0.00",
+      "payAmount": "5208148.00",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "4913348.00",
+        "total": "4913348.00",
+        "description": " REEMBOLSABLES LEGALIZACION POR PAGO DE ALQUILER Y MANTENIMIENTO DE LOS BANOS UBICADOS EN LA LOCACION, DE AKIRA NORESTE, POR 30 DIAS, CENTALS S.A.S NIT 900.363.2521, FV4076 DURANTE EL MES DE ABRIL 2024.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "294800.00",
+        "total": "294800.00",
+        "description": "REEMBOLSABLES LEGALIZACION POR PAGO DE ALQUILER Y MANTENIMIENTO DE LOS BANOS UBICADOS EN LA LOCACION, DE PONYO Y BACANO OESTE, POR 30 DIAS, CENTALS S.A.S NIT 900.363.2521, FV4077 DURANTE EL MES DE ABRIL 2024.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0008"
+      }
+    ]
+  }
+}

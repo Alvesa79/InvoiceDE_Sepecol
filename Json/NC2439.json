@@ -1,0 +1,67 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2439",
+    "issueDate": "20250117",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "CUATRO MILLONES DOSCIENTOS SETENTA Y  NUEVE MIL NOVECIENTOS CUARENTA Y  CUATRO con 1/100 COP",
+    "note2": "#$35-01-02; CTO336-2023;LRODRIGUEZM@MINCIT.GOV.CO#$- ANULA SP 11777 CAMBIO DE CODIGO PCI SOLICITUD DEL CLIENTE REEMPLAZA SP 11983",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2439"
+      }
+    },
+    "amounts": {
+      "totalAmount": "4200141.32",
+      "discountAmount": "0.00",
+      "taxAmount": "79802.69",
+      "payAmount": "4279944.01"
+    },
+    "customerX": {
+      "additionalAccountID": "1",
+      "name": "MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 28 N 13 A 15 P 9",
+      "documentNumber": "830115297",
+      "documentType": "31",
+      "telephone": "ND",
+      "email": "info@mincit.gov.co"
+    },
+    "period": {
+      "startDate": "20250101",
+      "startTime": "000000",
+      "endDate": "20250130",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "3780127.19",
+        "total": "3780127.19",
+        "description": "- ANULA SP 11777 CAMBIO DE CODIGO PCI SOLICITUD DEL CLIENTE REEMPLAZA SP 11983",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "420014.13",
+        "total": "420014.13",
+        "description": "- ANULA SP 11777 CAMBIO DE CODIGO PCI SOLICITUD DEL CLIENTE REEMPLAZA SP 11983 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "79802.69",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

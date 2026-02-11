@@ -1,0 +1,114 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11796",
+    "issueDate": "20241206",
+    "issueTime": "100521",
+    "dueDate": "20250105",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "DIECISEIS MILLONES DOSCIENTOS TREINTA Y  SEIS MIL SETECIENTOS CINCUENTA Y  DOS con 86/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS DE COMPANIA MINERA LIDIAR EN LA VEREDA FIRITA PENA ARRIBA MUNICIPIO DE RAQUIRA DURANTE EL PERIODO COMPRENDIDO DEL 01 AL 31 DE DICEMBRE DE 2024",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "COMPANIA MINERA LIDIAR S.A.S",
+      "city": "RAQUIRA",
+      "countrySubentity": "15600",
+      "addressLine": "CALLE 6 NO 2-14",
+      "documentNumber": "900007362",
+      "documentType": "31",
+      "telephone": "8556070",
+      "email": "auxiliarcontable@lidiarsas.com.co"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11796"
+      }
+    },
+    "amounts": {
+      "totalAmount": "15938594.10",
+      "discountAmount": "0.00",
+      "taxAmount": "298158.76",
+      "payAmount": "16236752.86",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "4341453.28",
+        "total": "4341453.28",
+        "description": "UN SERVICIOS 12 HRS NOCTURNOS LUNES A VIERNES SIN ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "482383.70",
+        "total": "482383.70",
+        "description": "UN SERVICIOS 12 HRS NOCTURNOS LUNES A VIERNES SIN ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "91652.90",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "7861533.54",
+        "total": "7861533.54",
+        "description": "DOS SERVICIOS 24 HRS SABADOS, DOMINGOS Y FESTIVOS SIN ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "873503.73",
+        "total": "873503.73",
+        "description": "DOS SERVICIOS 24 HRS SABADOS, DOMINGOS Y FESTIVOS SIN ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "165965.71",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2166350.67",
+        "total": "2166350.67",
+        "description": "UN SERVICIO NOCTURNO LOS SABADO, DOMINGO Y FESTIVOS CON ARMA. INICIA 20 DE ABRIL 2024 (DICIEMBRE 2024)",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "240705.63",
+        "total": "240705.63",
+        "description": "UN SERVICIO NOCTURNO LOS SABADO, DOMINGO Y FESTIVOS CON ARMA. INICIA 20 DE ABRIL 2024 (DICIEMBRE 2024) AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15600",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "45734.07",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

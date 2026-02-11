@@ -1,0 +1,73 @@
+{
+  "invoice": {
+    "rangeKey": "rk-36a44060f6d6e132ee09bc78e80c868f-v200",
+    "intID": "SEP12382",
+    "issueDate": "20250411",
+    "issueTime": "100521",
+    "dueDate": "20250511",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "DIECISEIS MILLONES SEIS MIL QUINIENTOS DIECINUEVE con 18/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS DE TRITURADOS PAZ DEL RIOS EN EL MUNICIPIO DE PAZ DEL RIO DURANTE EL PERIODO DEL 01 AL 31 DE MARZO DE 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "TRITURADOS PAZ DE RIO S.A.S.",
+      "city": "DUITAMA",
+      "countrySubentity": "15238",
+      "addressLine": "BOYACA",
+      "documentNumber": "900631805",
+      "documentType": "31",
+      "telephone": "55555",
+      "email": "contabilidad@trituradospazderio.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12382"
+      }
+    },
+    "amounts": {
+      "totalAmount": "14433000.63",
+      "discountAmount": "0.00",
+      "taxAmount": "1573518.55",
+      "payAmount": "16006519.18",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "5765126.28",
+        "total": "5765126.28",
+        "description": "UN SERVICIO 11 HORAS NOCTURNAS DE LUNES A SABADO ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15238"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1829497.83",
+        "total": "1829497.83",
+        "description": "UN SERVICIO LOS DOMINGOS 23 HORAS ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15238"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "6838376.52",
+        "total": "6838376.52",
+        "description": "SERVICIO 10 HORAS NOCTURNO DESDE LAS 7:00 A 5:00 AM CON ARMA Y MEDIO DE COMUNICACION",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "15238",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "1299291.54",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

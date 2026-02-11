@@ -1,0 +1,95 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2493",
+    "issueDate": "20250429",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "SETECIENTOS CATORCE MIL CIENTO DIECIOCHO con 20/100 COP",
+    "note2": "",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2493"
+      }
+    },
+    "amounts": {
+      "totalAmount": "700803.00",
+      "discountAmount": "0.00",
+      "taxAmount": "13315.20",
+      "payAmount": "714118.20",
+      "flexAmount": "true"
+    },
+    "customerX": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "ND",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "period": {
+      "startDate": "20250401",
+      "startTime": "000000",
+      "endDate": "20250430",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "157681.00",
+        "total": "157681.00",
+        "description": "ANULACION FAC SP12194  REEMPLAZA FAC SP 12427",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0010BNG"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "157681.00",
+        "total": "157681.00",
+        "description": "ANULACION FAC SP12194  REEMPLAZA FAC SP 12427",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0010BNG"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "157681.00",
+        "total": "157681.00",
+        "description": "ANULACION FAC SP12194  REEMPLAZA FAC SP 12427",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0010BNG"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "157680.00",
+        "total": "157680.00",
+        "description": "ANULACION FAC SP12194  REEMPLAZA FAC SP 12427",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0010BNG"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "70080.00",
+        "total": "70080.00",
+        "description": "ANULACION FAC SP12194  REEMPLAZA FAC SP 12427",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "0010BG",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "13315.20",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

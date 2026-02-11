@@ -1,0 +1,103 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11954",
+    "issueDate": "20250113",
+    "issueTime": "100521",
+    "dueDate": "20250212",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "DIECISIETE MILLONES TRESCIENTOS SESENTA Y  DOS MIL DOSCIENTOS TREINTA Y  CUATRO con 8/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA RESIDENCIAL PARA LAS DEPENDENCIAS DEL EDIFICIO OPORTO 93 PROPIEDAD HORIZONTAL DURANTE EL PERIODO DE ENERO 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "OPORTO 93 PROPIEDAD HORIZONTAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 93A 11 07 OF 503",
+      "documentNumber": "900345056",
+      "documentType": "31",
+      "telephone": "6234144",
+      "email": "edf.oporto93@gmail.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11954"
+      }
+    },
+    "amounts": {
+      "totalAmount": "14529966.84",
+      "discountAmount": "0.00",
+      "taxAmount": "2832267.24",
+      "payAmount": "17362234.08",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "12651736.68",
+        "total": "12651736.68",
+        "description": "SERVICIO 24 HRS PERMANENTE SIN ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "2473076.10",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1405748.52",
+        "total": "1405748.52",
+        "description": "SERVICIO 24 HRS PERMANENTE SIN ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "267092.22",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "425233.48",
+        "total": "425233.48",
+        "description": "DOS SERVICIOS 12 HORAS NOCTURNAS LOS DIAS 24 Y 25 DE DICIEMBRE DE 2024",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "83121.77",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "47248.16",
+        "total": "47248.16",
+        "description": "DOS SERVICIOS 12 HORAS NOCTURNAS LOS DIAS 24 Y 25 DE DICIEMBRE DE 2024 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "8977.15",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

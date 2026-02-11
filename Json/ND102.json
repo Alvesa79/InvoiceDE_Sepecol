@@ -1,0 +1,61 @@
+{
+  "debitNote": {
+    "rangeKey": "rk-7453618c2df4e796351325ee45530d00-v200",
+    "intID": "SEP102",
+    "issueDate": "20241230",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "TREINTA Y  SIETE MILLONES SEISCIENTOS SESENTA Y  DOS MIL QUINIENTOS CUARENTA Y  DOS con 64/100 COP",
+    "note2": "- ANULA NC2435 ERROR EN LIQUIDACION REEMPLAZA NC 2437",
+    "amounts": {
+      "totalAmount": "36960297.00",
+      "discountAmount": "0.00",
+      "taxAmount": "702245.64",
+      "payAmount": "37662542.64"
+    },
+    "customerX": {
+      "additionalAccountID": "1",
+      "name": "GEOPARK COLOMBIA S.A.S",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 94 11 30 PISO 8",
+      "documentNumber": "900493698",
+      "documentType": "31",
+      "telephone": "ND",
+      "email": "co.facturacionelectronica@geopark.com"
+    },
+    "period": {
+      "startDate": "20241201",
+      "startTime": "000000",
+      "endDate": "20241230",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "33264267.30",
+        "total": "33264267.30",
+        "description": "- ANULA NC2435 ERROR EN LIQUIDACION REEMPLAZA NC 2437",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "50110"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "3696029.70",
+        "total": "3696029.70",
+        "description": "- ANULA NC2435 ERROR EN LIQUIDACION REEMPLAZA NC 2437 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "50110",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "702245.64",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

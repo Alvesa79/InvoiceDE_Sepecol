@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1160,
+            "text": "creditNote/items(2)/tax(1) El total del tax del item no es el esperado Espero:[79802.68] - Recibo:[79802.69]"
+        }
+    }
+}

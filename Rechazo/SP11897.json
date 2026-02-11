@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1103,
+            "text": "Usuario o contrase\u00f1a invalida (UN)"
+        }
+    }
+}

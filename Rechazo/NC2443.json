@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1135,
+            "text": "El objeto creditNote/customerX/documentNumber no es una C\u00e9dula v\u00e1lida (C-800) Posiblemente es un NIT"
+        }
+    }
+}

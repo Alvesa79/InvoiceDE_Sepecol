@@ -1,0 +1,114 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11890",
+    "issueDate": "20241216",
+    "issueTime": "100521",
+    "dueDate": "20250115",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "CINCUENTA MILLONES OCHOCIENTOS  NUEVE MIL OCHOCIENTOS CINCUENTA Y  OCHO con 2/100 COP",
+    "note2": "ACTA N\u00b0439 PRESTACION SERVICIO DE VIG MOVIL Y FIJA COMERCIAL PARA LAS DEP DE PAREX VERANO EN EL BLQ LLANOS 32 KANANASKIS EN LOS MUN DE TAURAMENA DURANTE EL PER DEL 01 AL 31 MAY DE 2024 PED 4300177468 HE 1000274350 ID C202454790",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "VERANO ENERGY LIMITED SURCUSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 NO 721- OFC 611",
+      "documentNumber": "900331322",
+      "documentType": "31",
+      "telephone": "7425590",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11890"
+      }
+    },
+    "amounts": {
+      "totalAmount": "49947134.78",
+      "discountAmount": "0.00",
+      "taxAmount": "862723.24",
+      "payAmount": "50809858.02",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "31939844.39",
+        "total": "31939844.39",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3. UN SERVICIO DE VIGILANCIA 24 HORAS (TAURAMENA) (3 GUARDAS)",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "3548871.60",
+        "total": "3548871.60",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3. UN SERVICIO DE VIGILANCIA 24 HORAS (TAURAMENA) (3 GUARDAS) AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "674285.60",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "6043652.24",
+        "total": "6043652.24",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3: TECNICO DE PROTECCION INDUSTRIAL",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "671516.92",
+        "total": "671516.92",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3: TECNICO DE PROTECCION INDUSTRIAL AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "127588.21",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2882340.91",
+        "total": "2882340.91",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3: CAMIONETA TPI PLACA ELY061",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "320260.10",
+        "total": "320260.10",
+        "description": "LLANOS 32 RIG 028 KANANASKIS 3: CAMIONETA TPI PLACA ELY061 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "85410",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "60849.42",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

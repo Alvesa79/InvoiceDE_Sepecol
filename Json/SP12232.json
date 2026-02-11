@@ -1,0 +1,71 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP12232",
+    "issueDate": "20250312",
+    "issueTime": "100521",
+    "dueDate": "20250411",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "OCHO MILLONES SETECIENTOS CUARENTA Y  SEIS MIL OCHOCIENTOS SETENTA Y  DOS con 76/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS DE GEOPARK ADMINISTRACION EN LA CIUDAD DE BOGOTA, DURANTE EL PERIODO DEL 12 DE DICIEMBRE AL 11 DE FEBRERO DE 2025 HES 1000338016:",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "GEOPARK COLOMBIA S.A.S",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 94 11 30 PISO 8",
+      "documentNumber": "900493698",
+      "documentType": "31",
+      "telephone": "3809400",
+      "email": "co.facturacionelectronica@geopark.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12232"
+      }
+    },
+    "amounts": {
+      "totalAmount": "7339659.80",
+      "discountAmount": "0.00",
+      "taxAmount": "1407212.96",
+      "payAmount": "8746872.76",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "6605693.82",
+        "total": "6605693.82",
+        "description": "-SERVICIO DE SEGURIDAD COORDINADOR",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "1267759.42",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "733965.98",
+        "total": "733965.98",
+        "description": "-SERVICIO DE SEGURIDAD COORDINADOR AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "139453.54",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

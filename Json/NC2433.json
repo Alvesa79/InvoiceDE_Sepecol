@@ -1,0 +1,292 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2433",
+    "issueDate": "20241230",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "CUATROCIENTOS TREINTA Y  DOS MILLONES OCHOCIENTOS TREINTA Y  SEIS MIL QUINIENTOS  UNO con 99/100 COP",
+    "note2": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2433"
+      }
+    },
+    "amounts": {
+      "totalAmount": "424765948.96",
+      "discountAmount": "0.00",
+      "taxAmount": "8070553.03",
+      "payAmount": "432836501.99"
+    },
+    "customerX": {
+      "additionalAccountID": "1",
+      "name": "GRUPO ENERGIA BOGOTA S.A ESP",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CR 9 N 73 44 P 6",
+      "documentNumber": "899999082",
+      "documentType": "31",
+      "telephone": "ND",
+      "email": "otorres@geb.com.co"
+    },
+    "period": {
+      "startDate": "20241201",
+      "startTime": "000000",
+      "endDate": "20241230",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "221879891.60",
+        "total": "221879891.60",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24653321.29",
+        "total": "24653321.29",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "4684131.04",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "11768526.24",
+        "total": "11768526.24",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1307614.03",
+        "total": "1307614.03",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "248446.66",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "5173666.04",
+        "total": "5173666.04",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "574851.78",
+        "total": "574851.78",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "109221.84",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "4633706.42",
+        "total": "4633706.42",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "514856.27",
+        "total": "514856.27",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "97822.69",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "47074104.20",
+        "total": "47074104.20",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "5230456.02",
+        "total": "5230456.02",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "993786.64",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "23537052.10",
+        "total": "23537052.10",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2615228.01",
+        "total": "2615228.01",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "496893.32",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "10556709.77",
+        "total": "10556709.77",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1172967.75",
+        "total": "1172967.75",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "222863.87",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "13092706.69",
+        "total": "13092706.69",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1454745.19",
+        "total": "1454745.19",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "276401.59",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "9267412.85",
+        "total": "9267412.85",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1029712.54",
+        "total": "1029712.54",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "195645.38",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "35305578.15",
+        "total": "35305578.15",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "3922842.02",
+        "total": "3922842.02",
+        "description": "- ANULA SP11904 ERROR DE DECIMALES REEMPLAZA SP11906 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "745339.98",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

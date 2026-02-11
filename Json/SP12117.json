@@ -1,0 +1,96 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP12117",
+    "issueDate": "20250219",
+    "issueTime": "100521",
+    "dueDate": "20250321",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "DOCE MILLONES OCHOCIENTOS OCHENTA MIL NOVECIENTOS CUARENTA Y  CUATRO con 49/100 COP",
+    "note2": "ACTA N\u00c2\u00b0050 SM -PRESTACION DE SERVICIO DE INSTALACION MEDIO TECNOLOGICOS Y SISTEMA DE ALARMA OFICINA PRINCIPAL PAREX CORRESPONDIENTE AL MES DE NOV 2022 N\u00b0PED 4300121907 HE 1000172543 ID C202242600:",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12117"
+      }
+    },
+    "amounts": {
+      "totalAmount": "11736714.44",
+      "discountAmount": "0.00",
+      "taxAmount": "1144230.05",
+      "payAmount": "12880944.49",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "5893848.90",
+        "total": "5893848.90",
+        "description": "INSTALACION DE ELEMENTERO ELECTRONICOSPARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CAASA DEL EJECUTIVO DE PAREX DAMIAN FERNANDEZ, EN EL MES DE NOVIEMBRE 2022.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "654872.10",
+        "total": "654872.10",
+        "description": "INSTALACION DE ELEMENTERO ELECTRONICOSPARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CAASA DEL EJECUTIVO DE PAREX DAMIAN FERNANDEZ, EN EL MES DE NOVIEMBRE 2022. AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "124425.70",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "4669194.10",
+        "total": "4669194.10",
+        "description": "INSTALACION DE ELEMENTERO ELECTRONICOSPARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CAASA DEL EJECUTIVO DE PAREX ANDRES ZOLDI, EN EL MES DE NOVIEMBRE 2022.",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "921232.48",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "518799.34",
+        "total": "518799.34",
+        "description": "INSTALACION DE ELEMENTERO ELECTRONICOSPARA EQUIPOS DEL SISTEMA DE SEGURIDAD ELECTRONICA EN LA CAASA DEL EJECUTIVO DE PAREX ANDRES ZOLDI, EN EL MES DE NOVIEMBRE 2022. AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "98571.88",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

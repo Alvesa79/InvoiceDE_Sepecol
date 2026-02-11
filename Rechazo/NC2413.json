@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1134,
+            "text": "el parametro: 'invoice/period/startDate' no tiene el tama\u00f1o requerido (8)"
+        }
+    }
+}

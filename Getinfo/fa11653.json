@@ -1,0 +1,23 @@
+{
+  "invoiceResult": {
+    "status": {
+      "code": 200,
+      "text": "Operaci\u00f3n realizada con exito"
+    },
+    "document": {
+      "type": "Factura",
+      "mode": "Verify",
+      "tascode": "fc-76370c6157a1dd23fa59e192048af9ab-v300",
+      "intID": "SEP11653",
+      "document": "SP11653",
+      "process": 2,
+      "retries": 0,
+      "customer": "0",
+      "enhancedInfo": null,
+      "CUFE": "f96372323103b10c2b3157f64dfe61b462cd7ac251f09291cacbae4d9cae404812a63d67996a58844cfc9fd05a322246",
+      "URL": "https://wrk.tas-la.com/facturacion.v30/downloads/get.php?type=zip&id=fc-76370c6157a1dd23fa59e192048af9ab-v300",
+      "PDF": "https://wrk.tas-la.com/facturacion.v30/downloads/get.php?type=pdf&id=fc-76370c6157a1dd23fa59e192048af9ab-v300",
+      "ATTACHED": "https://wrk.tas-la.com/facturacion.v30/downloads/get.php?type=xml&id=fc-76370c6157a1dd23fa59e192048af9ab-v300"
+    }
+  }
+}

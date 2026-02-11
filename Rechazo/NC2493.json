@@ -1,0 +1,8 @@
+{
+    "invoiceResult": {
+        "status": {
+            "code": 1131,
+            "text": "el parametro: 'creditNote/note2' no puede estar vacio"
+        }
+    }
+}

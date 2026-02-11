@@ -1,0 +1,217 @@
+{
+  "creditNote": {
+    "rangeKey": "rk-5a690416c28615755d8640e53a59f9ed-v200",
+    "intID": "SEP2446",
+    "issueDate": "20250128",
+    "issueTime": "100521",
+    "discrepancyCode": "1",
+    "note1": "DOSCIENTOS MILLONES DOSCIENTOS SESENTA Y  OCHO MIL SETECIENTOS NOVENTA Y  CUATRO con 19/100 COP",
+    "note2": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+    "additional": {
+      "documento_gn": {
+        "prefijo": "NC",
+        "documento": "2446"
+      }
+    },
+    "amounts": {
+      "totalAmount": "196534636.10",
+      "discountAmount": "0.00",
+      "taxAmount": "3734158.09",
+      "payAmount": "200268794.19"
+    },
+    "customerX": {
+      "additionalAccountID": "2",
+      "name": "AMERISUR EXPLORACION COLOMBIA LIMITADA",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CL 94 11 30 PISO 8",
+      "documentNumber": "900089005",
+      "documentType": "13",
+      "telephone": "ND",
+      "email": "co.facturacionelectronica@geopark.com"
+    },
+    "period": {
+      "startDate": "20250101",
+      "startTime": "000000",
+      "endDate": "20250130",
+      "endTime": "000000"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "24398253.00",
+        "total": "24398253.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "2710917.00",
+        "total": "2710917.00",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "515074.23",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "42157530.36",
+        "total": "42157530.36",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "4684170.04",
+        "total": "4684170.04",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "889992.31",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "12732377.13",
+        "total": "12732377.13",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568"
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1414708.57",
+        "total": "1414708.57",
+        "description": "- ANULA SP 11977 NO ACEPTACION POR EL CLIENTE REEMPLAZA SP12009 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "86568",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "268794.63",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

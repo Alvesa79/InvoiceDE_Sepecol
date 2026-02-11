@@ -1,0 +1,71 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP12188",
+    "issueDate": "20250305",
+    "issueTime": "100521",
+    "dueDate": "20250404",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "CIENTO ONCE MILLONES DOSCIENTOS  CUATRO MIL NOVECIENTOS DIECISEIS con 84/100 COP",
+    "note2": "ACTA N\u00b0044 -PRESTACION DE SERVICIO VIGILANCIA VEHICULAR CONDUCTORES EJECUTIVOS PAREX BOGOTA DEL 1 AL 30 ABRIL 2023 ASI PED 4300134694 HE 1000193150 ID C202374274:",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "PAREX RESOURCES COLOMBIA LTD SUCURSAL",
+      "city": "BOGOTA",
+      "countrySubentity": "11001",
+      "addressLine": "CALLE 113 N 7 -21 OF 706",
+      "documentNumber": "900268747",
+      "documentType": "31",
+      "telephone": "6291716",
+      "email": "facturacionelectronica@parexresources.com"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "12188"
+      }
+    },
+    "amounts": {
+      "totalAmount": "93190149.50",
+      "discountAmount": "0.00",
+      "taxAmount": "18014767.34",
+      "payAmount": "111204916.84",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "83871134.55",
+        "total": "83871134.55",
+        "description": "CONDUCTORES PAREX SERVICIO CONDUCTORES ASIGNADOS AL PERSONAL EJECUTIVO PAREX BOGOTA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "16244154.50",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "9319014.95",
+        "total": "9319014.95",
+        "description": "CONDUCTORES PAREX SERVICIO CONDUCTORES ASIGNADOS AL PERSONAL EJECUTIVO PAREX BOGOTA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "11001",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "1770612.84",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}

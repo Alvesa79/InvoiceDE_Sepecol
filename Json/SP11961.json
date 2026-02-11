@@ -1,0 +1,391 @@
+{
+  "invoice": {
+    "rangeKey": "rk-3c4a7aba44c5480a1f574db5b94acf60-v200",
+    "intID": "SEP11961",
+    "issueDate": "20250115",
+    "issueTime": "100521",
+    "dueDate": "20250214",
+    "paymentType": "2",
+    "paymentCode": "45",
+    "note1": "CIENTO TREINTA Y  TRES MILLONES SETECIENTOS SETENTA Y  OCHO MIL CIENTO CUARENTA con 81/100 COP",
+    "note2": "PRESTACION SERVICIO DE VIGILANCIA FIJA COMERCIAL PARA LAS DEPENDENCIAS DE INVERSIONES PINZON MARTINEZ EN EL MUNICIPIO DE TAUSA DURANTE EL PERIODO DEL 01 AL 31 DE ENERO DE 2025",
+    "customer": {
+      "additionalAccountID": "1",
+      "name": "INVERSIONES PINZON MARTINEZ",
+      "city": "ZIPAQUIRA",
+      "countrySubentity": "25899",
+      "addressLine": "CRA 10 NO.3-14",
+      "documentNumber": "860045623",
+      "documentType": "31",
+      "telephone": "8522474",
+      "email": "coordinador.abastecimiento@ipmsa.com.co"
+    },
+    "additional": {
+      "documento_gn": {
+        "prefijo": "SP",
+        "documento": "11961"
+      }
+    },
+    "amounts": {
+      "totalAmount": "131506662.10",
+      "discountAmount": "0.00",
+      "taxAmount": "2271478.71",
+      "payAmount": "133778140.81",
+      "flexAmount": "true"
+    },
+    "items": [
+      {
+        "quantity": "1.00",
+        "unitPrice": "13120320.00",
+        "total": "13120320.00",
+        "description": "UN SERVICIO 24 HORAS SIN ARMA LUNES A SABADO Y UN DOMINGO CADA QUINCE DIAS",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "249286.08",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1312032.00",
+        "total": "1312032.00",
+        "description": "UN SERVICIO 24 HORAS SIN ARMA LUNES A SABADO Y UN DOMINGO CADA QUINCE DIAS AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "249286.08",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "5877460.00",
+        "total": "5877460.00",
+        "description": "UN SERVICIO 24 HORAS LOS SABADOS DOMINGO Y FESTIVOS ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "111671.74",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "587746.00",
+        "total": "587746.00",
+        "description": "UN SERVICIO 24 HORAS LOS SABADOS DOMINGO Y FESTIVOS ARMADO AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "111671.74",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "14317809.00",
+        "total": "14317809.00",
+        "description": "UN SERVICIO VIGILANCIA 24 HORAS PERMANENTE CON ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1431780.90",
+        "total": "1431780.90",
+        "description": "UN SERVICIO VIGILANCIA 24 HORAS PERMANENTE CON ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "14317809.00",
+        "total": "14317809.00",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE CON ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1431780.90",
+        "total": "1431780.90",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE CON ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "4772603.00",
+        "total": "4772603.00",
+        "description": "UN SERVICIO 24 HORAS LOS SABADOS Y DOMINGO ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "90679.46",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "477260.30",
+        "total": "477260.30",
+        "description": "UN SERVICIO 24 HORAS LOS SABADOS Y DOMINGO ARMADO AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "90679.46",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "5666327.00",
+        "total": "5666327.00",
+        "description": "UN REFUERZO DE VIGILANCIA Y SEGURIDAD PRIVADA 24 HORAS LOS DIAS 14,15,21,22,24,25,28,29,31 DE DICIEMBRE DE 2024 Y 01 DE ENERO DE 2025 CON ARMA SEGUN COTIZACION NO. 40 CO-2024",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "107660.21",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "566632.70",
+        "total": "566632.70",
+        "description": "UN REFUERZO DE VIGILANCIA Y SEGURIDAD PRIVADA 24 HORAS LOS DIAS 14,15,21,22,24,25,28,29,31 DE DICIEMBRE DE 2024 Y 01 DE ENERO DE 2025 CON ARMA SEGUN COTIZACION NO. 40 CO-2024 AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "107660.21",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "9336701.00",
+        "total": "9336701.00",
+        "description": "UN SERVICIO 15 HORAS NOCTURNA SIN ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "177397.32",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "933670.10",
+        "total": "933670.10",
+        "description": "UN SERVICIO 15 HORAS NOCTURNA SIN ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "177397.32",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "14317809.00",
+        "total": "14317809.00",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE CON ARMA",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1431780.90",
+        "total": "1431780.90",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE CON ARMA AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "9189055.00",
+        "total": "9189055.00",
+        "description": "UN SERVICIO 12 HORAS NOCTURNOS DE LUNES A SABADO DESDE LAS 06:00PM A 06:00AM CON ARMA , DOMINGOS Y FESTIVOS 24 HORAS",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "174592.05",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "918905.50",
+        "total": "918905.50",
+        "description": "UN SERVICIO 12 HORAS NOCTURNOS DE LUNES A SABADO DESDE LAS 06:00PM A 06:00AM CON ARMA , DOMINGOS Y FESTIVOS 24 HORAS AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "174592.05",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "14317809.00",
+        "total": "14317809.00",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1431780.90",
+        "total": "1431780.90",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE ARMADO AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "19.00"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "14317809.00",
+        "total": "14317809.00",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE ARMADO",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "1.90"
+          }
+        ]
+      },
+      {
+        "quantity": "1.00",
+        "unitPrice": "1431780.90",
+        "total": "1431780.90",
+        "description": "UN SERVICIO 24 HORAS PERMANENTE ARMADO AIU",
+        "brand": "LF",
+        "model": "Soporte",
+        "code": "25793",
+        "taxes": [
+          {
+            "ID": "01",
+            "taxAmount": "272038.37",
+            "percent": "19.00"
+          }
+        ]
+      }
+    ]
+  }
+}
