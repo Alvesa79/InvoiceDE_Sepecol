@@ -1,8 +1,0 @@
-{
-    "invoiceResult": {
-        "status": {
-            "code": 1135,
-            "text": "el parametro: 'invoice/customer/countryEntity' no tiene un valor valido"
-        }
-    }
-}

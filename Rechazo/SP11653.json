@@ -1,8 +1,0 @@
-{
-    "invoiceResult": {
-        "status": {
-            "code": 1160,
-            "text": "invoice/amounts/payAmount el total 'flexible' es mayor a $2.00 en la diferencia. Espero:[744384513.48] - Recibo:[677862217.00]"
-        }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "invoiceResult": {
-        "status": {
-            "code": 1160,
-            "text": "invoice/items(1)/tax(1) el total del tax del item es mayor a $2.00 en la diferencia. Espero:[1351578.82] - Recibo:[1365231.13]"
-        }
-    }
-}
